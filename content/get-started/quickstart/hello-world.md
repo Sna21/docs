@@ -2,9 +2,9 @@
 title: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
+  fpt: 'trisna'
+  ghes: 'ruci.2021'
+  ghae: 'indonesia'
   ghec: '*'
 type: quick_start
 topics:
